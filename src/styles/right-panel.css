@@ -1,0 +1,16 @@
+.right-panel-container{
+    /* background-color: pink; */
+    width: 100vw;
+    height: 100vh;
+}
+
+.MuiContainer-root{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    /* padding-bottom: 24 !important; */
+}
+
+.MuiContainer-maxWidthLg {
+    
+}
+

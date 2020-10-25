@@ -32,7 +32,13 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.32",
+    "@fortawesome/free-solid-svg-icons": "5.15.1",
+    "@fortawesome/react-fontawesome": "0.1.11",
     "@hot-loader/react-dom": "16.10.2",
+    "@material-ui/core": "4.11.0",
+    "@material-ui/data-grid": "4.0.0-alpha.6",
+    "chart.js": "2.9.4",
     "connected-react-router": "6.5.2",
     "object-assign": "4.1.1",
     "react": "16.11.0",
